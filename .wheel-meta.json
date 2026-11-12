@@ -1,0 +1,22 @@
+{
+  "wheel_id": 884,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-118",
+  "project": "fencing-contractors-toowoomba-warranty-19a82aac3d269d4dcdb368ac",
+  "parent_t1_ref": "fencingtoowoomba-158",
+  "node_role": "feeder",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba warranty",
+  "intended_url": "https://sitesau.github.io/fencingtoowoomba-118/",
+  "tier": "T2",
+  "writeback_nonce": "a0b0649607a68961",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/fencing-contractors-toowoomba-maintenance-697513208818ac1409365/",
+      "anchor": "fencing contractors toowoomba maintenance",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
